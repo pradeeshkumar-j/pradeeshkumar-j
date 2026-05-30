@@ -23,8 +23,8 @@ public class PradeeshKumar {
 
     String[] stack      = {
         "Java", "Spring Boot",
-        "HTML", "CSS", "JavaScript",
-        "MySQL", "REST APIs", "Git"
+        "HTML", "CSS", "JavaScript","React",
+        "MongoDB","MySQL", "REST APIs", "Git"
     };
 
     String[] learning   = {
