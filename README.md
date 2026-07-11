@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pradeesh%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Enthusiast&descAlignY=62&descSize=16" />
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
